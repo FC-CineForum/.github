@@ -27,7 +27,16 @@ Bajo esta idea a lo largo del documento abordaremos, en primera instancia, los a
 
 ### 1.1. Glosario <a name='glosario'></a>
 
-![Glosario](/profile/assets/glosario.png)
+<!-- ![Glosario](/profile/assets/glosario.png) -->
+
+| Término                  | Definición |
+| ------------------------ | ---------- |
+| Producto Cinematográfico | Una película, serie, o corto |
+| Entrada                  | La publicación con la información de un producto cinematográfico como su reseña |
+| Integrantes de Producto  | Actores, directores, guionistas |
+| Calificación             | Es un promedio de 0 a 5 representado con claquetas de cine |
+| Valorar                  | Dar una calificación a una entrada que puede estar acompañada de una opinión |
+
 
 ### 1.2. Requerimientos de usuario <a name='req-usuario'></a>
 
@@ -117,7 +126,7 @@ Nota: Esto incluye darle like o dislike a una valoración
 
 ### 4.2. Flujo de Usuario <a name='flujo-usuario'></a>
 
-![FlujoUsuario](/profile/assets/flujo_usuario.png)
+![FlujoUsuario](/profile/assets/flujo-usuario.png)
 
 ## 5. Mockup <a name='mockup'></a>
 
