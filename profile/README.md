@@ -27,7 +27,7 @@ Bajo esta idea a lo largo del documento abordaremos, en primera instancia, los a
 
 ### 1.1. Glosario <a name='glosario'></a>
 
-![Glosario](/assets/glosario.png)
+![Glosario](assets/glosario.png)
 
 ### 1.2. Requerimientos de usuario <a name='req-usuario'></a>
 
@@ -113,11 +113,11 @@ Nota: Esto incluye darle like o dislike a una valoración
 
 ### 4.1. Modelo Relacional <a name='relacional'></a>
 
-![ModeloRelacional](/assets/relacional.png)
+![ModeloRelacional](assets/relacional.png)
 
 ### 4.2. Flujo de Usuario <a name='flujo-usuario'></a>
 
-![FlujoUsuario](/assets/flujo_usuario.png)
+![FlujoUsuario](assets/flujo_usuario.png)
 
 ## 5. Mockup <a name='mockup'></a>
 
