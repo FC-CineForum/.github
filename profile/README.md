@@ -16,7 +16,6 @@
 - [Gráficas](#graficas)
     - [Modelo Relacional](#relacional)
     - [Flujo de Usuario](#flujo-usuario)
-    - [Flujo de Administrador](#flujo-admin)
 - [Mockup](#mockup)
     
 
@@ -119,10 +118,6 @@ Nota: Esto incluye darle like o dislike a una valoración
 ### 4.2. Flujo de Usuario <a name='flujo-usuario'></a>
 
 ![FlujoUsuario](/assets/flujo_usuario.png)
-
-### 4.3. Flujo de Administrador <a name='flujo-admin'></a>
-
-![FlujoAdmin](/assets/flujo_admin.png)
 
 ## 5. Mockup <a name='mockup'></a>
 
