@@ -133,7 +133,7 @@ Nota: Esto incluye darle like o dislike a una valoración
 
 ## 6. Apéndice
 
-Se enumeran a continuaciones las opiniones y conclusiones finales de cada integrante del equipo:
+Se enlistan a continuación las opiniones y conclusiones finales de cada integrante del equipo.
 
 <!-- Los nombres están (según yo, al menos) en orden lexicográfico -->
 
