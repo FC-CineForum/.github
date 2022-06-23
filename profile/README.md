@@ -39,7 +39,7 @@ Bajo esta idea a lo largo del documento abordaremos, en primera instancia, los a
 
 ### 1.2. Requerimientos de usuario
 
-Este proyecto será una página web a la que cualquier persona con acceso a internet pueda ingresar, tenemos en mente dos flujos de uso principales: usuario y administrador. Como usuario podemos acceder a entradas y a perfiles de un integrante de producto donde se muestre los productos cinematográficos en los que ha participado; un usuario se puede crear una cuenta con la cual podrá: valorar entradas, comentar valoraciones. Las acciones pensadas para los administradores son, como indica su nombre, administrar el contenido de la página en todas sus formas, siendo estas: todo lo relacionado a entradas e integrantes de un producto.
+Este proyecto será una página web a la que cualquier persona con acceso a internet pueda ingresar, tenemos en mente un flujo de uso principal: el de usuario. Este pdrá buscar y acceder a entradas para ver su información general, sus integrantes y las opiniones de otros usuarios; También podrá crearse una cuenta, lo que le permitirá valorar entradas e interactuar con otras valoraciones a través de un botón de 'me gusta' y comentarios.
 
 ## 2. Requerimientos de Sistema
 
