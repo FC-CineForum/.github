@@ -147,9 +147,17 @@ Aunque hubo funcionalidades que no pudimos mostrar al usuario final me siento bi
 
   En lo personal me encuentro satisfecho con el resultado final pues, a pesar de todo lo que terminamos no agregando, presentamos algo íntegro, funcional y con un diseño similar al planeado al inicio. Pero considero que, junto con errores de estimación en el tiempo y la complejidad de desarrollo de algunas funcionalidades que inicialmente creíamos serían sencillas, tuvimos problemas en la comunicación y organización como **equipo** que nos impideron cumplir con las expectativas que teníamos para el proyecto, y es que, al menos por mi parte, había periodos en los que no sabía nada de los avances de mis compañeros y, a raíz de no conocerlos de antes, tampoco mostraba el interes que debía para preguntarles como iban o si podía ayudar en algo y me limitaba a hacer *"lo que me tocaba"*. 
 
-- **fer garay**
+- **Fernando Raúl Garay Araujo**
 
-  texto
+  A pesar de que el resultado final no es el esperado a inicios del semestre y que es un tanto frustrante que algunas funcionalidades estuvieron muy cercanas a ser implementadas pero al final no lo fueron, mirando atrás (el martes pasado^[1]) estoy satisfecho con lo presentado y muy orgulloso de lo que aprendí. 
+Lo frustrante es que, aunque sé que como equipo todos dimos nuestro 100%, creo que si hubiera dado un 120% habríamos podido implementar las funcionalidades antes mencionadas. Es como un todo o nada que sólo costaba 20% más del 100% ya puesto.
+Al final del día llegué a la conclusión de que no puedo martirizarme por eso ya que es algo que desconocía en su momento, es algo que sólo puedo verlo mirando hacia atrás desde el día de hoy.
+Además de lo anterior, considero que es el curso en el que más he aprendido de lo que llevo de licenciatura, ya que aunque por definición es un poco carente de teoría, está lleno de práctica y algo casi inexistente en básicamente todos los cursos de FC que es la interacción social.
+
+Tuve la fortuna de ser el integrante con menos experiencia de mi equipo (por decirlo de alguna forma correcta) y esto me permitió aprender un montón, pero en serio, un montón de mi equipo. Gran parte de lo que aprendí se lo debo totalmente a ellos.
+Ahora, hablando en general, aprendí a trabajar en equipo y entendí cómo es trabajar en equipo mejor que nunca. Desde tener que descubrir cómo aprender a aprender nuevas tecnologías más que en cualquier otro curso (a aprender a aprender...), hasta tener que entender que la vida nunca está 100% bajo control y siempre habrá cosas que pueden salir mal (y que saldrán mal). Que tenemos que saber que nuestras habilidades tienen un valor en el mercado y que ya sea escribiendo código, documentación o interactuando con el equipo y cliente, siempre debemos comunicarnos de la mejor y más clara manera.
+
+[1]Me refiero al martes 21/JUN/2022.
 
 - **Fernando López Balcazar**
 
