@@ -135,7 +135,17 @@ Nota: Esto incluye darle like o dislike a una valoración
 
 Se enlistan a continuación las opiniones y conclusiones finales de cada integrante del equipo.
 
-<!-- Los nombres están (según yo, al menos) en orden lexicográfico -->
+- **Leslie Ramírez Gallegos**
+
+Aunque hubo funcionalidades que no pudimos mostrar al usuario final me siento bien con el resultado del sistema pues cumple con la finalidad que es manipular las entradas y tal. Posiblemente el backend se pueda mejorar al igual que el frontend. Hablando desde la posición de estudiante; lo que me llevo del semestre es haber mejorado la habilidad de aprender tecnologías que estan en el mercado, hacer análisis de mercado para lanzar una app que pueda tener crecimiento. Del lado de software; la importancia de las pruebas en código, entender los requisitos del cliente, etc. 
+
+- **uriel**
+
+  texto
+  
+- **Fernando Márquez Pérez**
+
+  En lo personal me encuentro satisfecho con el resultado final pues, a pesar de todo lo que terminamos no agregando, presentamos algo íntegro, funcional y con un diseño similar al planeado al inicio. Pero considero que, junto con errores de estimación en el tiempo y la complejidad de desarrollo de algunas funcionalidades que inicialmente creíamos serían sencillas, tuvimos problemas en la comunicación y organización como **equipo** que nos impideron cumplir con las expectativas que teníamos para el proyecto, y es que, al menos por mi parte, había periodos en los que no sabía nada de los avances de mis compañeros y, a raíz de no conocerlos de antes, tampoco mostraba el interes que debía para preguntarles como iban o si podía ayudar en algo y me limitaba a hacer *"lo que me tocaba"*. 
 
 - **fer garay**
 
@@ -144,18 +154,3 @@ Se enlistan a continuación las opiniones y conclusiones finales de cada integra
 - **fer lopez**
 
   texto
-
-- **Fernando Márquez Pérez**
-
-  En lo personal me encuentro satisfecho con el resultado final pues, a pesar de todo lo que terminamos no agregando, presentamos algo íntegro, funcional y con un diseño similar al planeado al inicio. Pero considero que, junto con errores de estimación en el tiempo y la complejidad de desarrollo de algunas funcionalidades que inicialmente creíamos serían sencillas, tuvimos problemas en la comunicación y organización como **equipo** que nos impideron cumplir con las expectativas que teníamos para el proyecto, y es que, al menos por mi parte, había periodos en los que no sabía nada de los avances de mis compañeros y, a raíz de no conocerlos de antes, tampoco mostraba el interes que debía para preguntarles como iban o si podía ayudar en algo y me limitaba a hacer *"lo que me tocaba"*.
-
-- **leslie**
-
-  texto
-
-- **uriel**
-
-  texto
-
-
-  
