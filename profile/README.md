@@ -151,6 +151,7 @@ Aunque hubo funcionalidades que no pudimos mostrar al usuario final me siento bi
 
   texto
 
-- **fer lopez**
+- **Fernando López Balcazar**
 
-  texto
+  En mi caso siento que no estuvo mal el resultado, probablemente fuimos muy ambiciosos en algunas cosas al inicio pero al menos la base de lo que se planeo en un inicio está implementado, eso sin contar que un par de cosas que no habíamos considerado desde un inicio como el minero (que también decidimos que desde la vista de administrados se pudiera mandar a llamar al minero, cosa que al final al estar  incompleta por cuestiones de tiempo no terminamos esa rama ni la mezclamos). Siento que aparte de las tecnólogias que aprendí (que no fueron pocas) también aprendí una nueva forma de trabajar en equipo, en mi caso puedo decir que la *programación en pares* **sí** me funcionó ya que buscar información entre dos personas es más rápido que hacerlo individual y también tuvimos la oportunidad de aprender uno del otro, ya que de hecho al tener ideas diferentes a la hora de implementar tomamos la decisión de detenernos y escribir qué es lo que íbamos a hacer y cómo hacerlo para llegar a que los dos estabamos haciendo y esperando lo mismo sobre esas pequeñas partes del proyecto. También me sirvió bastante el proyecto para recordar y mejorar conocimientos con respecto de las bases de datos ya que al ser un proyecto mayormente de bases de datos era obvio que eso nos iba a tomar bastante tiempo (y así fue) por lo que terminó siendo una implementación bastante grande y posteriormente *queries* complejas pero que era entretenido hacerlas.
+
