@@ -139,9 +139,9 @@ Se enlistan a continuación las opiniones y conclusiones finales de cada integra
 
 Aunque hubo funcionalidades que no pudimos mostrar al usuario final me siento bien con el resultado del sistema pues cumple con la finalidad que es manipular las entradas y tal. Posiblemente el backend se pueda mejorar al igual que el frontend. Hablando desde la posición de estudiante; lo que me llevo del semestre es haber mejorado la habilidad de aprender tecnologías que estan en el mercado, hacer análisis de mercado para lanzar una app que pueda tener crecimiento. Del lado de software; la importancia de las pruebas en código, entender los requisitos del cliente, etc. 
 
-- **uriel**
+- **Uriel García Luna Bobadilla**
 
-  texto
+Pensando en retrospectiva el proyecto fue muy ambicioso y difícil para poder completarlo en un solo semestre, no obstante creo que, al menos por mi parte hubo algunas cosas que faltaron las cuales sí pudieron ser implementadas de no haber cuidado tanto los detalles en las cosas que hice, sin duda el dejar las cosas en cierto nivel de funcionalidad y no pelearme en que sean "perfectas" es algo en lo que debo trabajar. Este proyecto me dejó como lección más importante lo fundamental que es la comunicación en un equipo y que la mayor perdida de tiempo se puede dar en malentendidos que no se acalaran y crecen hasta el punto en que cambiarlos se traduce en muchas horas a modificación de código.
   
 - **Fernando Márquez Pérez**
 
